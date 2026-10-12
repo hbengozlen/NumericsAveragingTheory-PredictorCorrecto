@@ -1,0 +1,12 @@
+# Rendered videos and run data -- generated, not source (GitHub rejects files > 100 MB)
+*.mp4
+*.mat
+
+# MATLAB autosave files
+*.asv
+
+# Windows Explorer thumbnail cache
+Thumbs.db
+
+# Local Claude settings
+.claude/
